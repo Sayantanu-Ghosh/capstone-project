@@ -1,5 +1,9 @@
 # capstone-project
 ✅ Brief Overview of the Project
+
+![Untitled diagram _ Mermaid Chart-2025-07-07-112712](https://github.com/user-attachments/assets/a485127a-ccad-4494-ac0a-f97e8ba8fdf3)
+
+
 This project implements a dynamic pricing model for a smart parking system using Pathway (a stream data processing library). It takes in real-time data streams of parking events and computes optimal parking prices by analyzing:
 
 Occupancy levels
@@ -97,4 +101,4 @@ Uses above features to calculate Demand.
 Uses Demand to compute final Price.
 
 Adds Timestamp, t, and day for visualization.
-![Untitled diagram _ Mermaid Chart-2025-07-07-112712](https://github.com/user-attachments/assets/a485127a-ccad-4494-ac0a-f97e8ba8fdf3)
+
