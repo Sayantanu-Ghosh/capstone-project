@@ -97,4 +97,4 @@ Uses above features to calculate Demand.
 Uses Demand to compute final Price.
 
 Adds Timestamp, t, and day for visualization.
-<pre> \```mermaid flowchart LR A[Raw CSV Data] --> B[Data Cleaning (Pandas)] B --> C[Pathway Streaming Engine] C --> D1[Map Traffic & Vehicle Weight] D1 --> D2[Compute Demand Score] D2 --> D3[Dynamic Pricing Logic] D3 --> E[Final Output as JSONL] \``` </pre>
+![Untitled diagram _ Mermaid Chart-2025-07-07-112712](https://github.com/user-attachments/assets/a485127a-ccad-4494-ac0a-f97e8ba8fdf3)
